@@ -30,4 +30,4 @@ Metotların tanımı, kullanımı ve örnekleri ile ilgili projeler mevcut. Bura
 C# ile basit bir veritabanı projesi örneği içeriyor. Veritabanı bağlantısının nasıl kurulduğunu ve nasıl veri çekildiğini öğrendim. Konsol uygulamasında tablo listeleyen bir uygulama geliştirmek, mantığı oturtmam adına yararlı bir deneyim oldu.
 
 ### 10. DatabaseCrud 📝  
-C# ile CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştiren bir proje. Bu projede, SQL bağlantısı kullanarak temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirip veritabanıyla etkileşime girdim.
+C# ile CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştiren bir proje. Bu projede, SQL bağlantısı kullanarak temel CRUD işlemlerini gerçekleştirip veritabanıyla etkileşime girdim.
